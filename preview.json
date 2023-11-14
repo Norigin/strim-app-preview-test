@@ -52,20 +52,20 @@
         },
         {
           "image_ratio": "1by1",
-          "image_url": "https://static.rikstv.no/logopack/Viaplay_square.svg",
-          "action_data": "{\"subpageId\": \"e10f39b4-0163-4358-a744-e0038b50c21d\"}",
+          "image_url": "https://imageservice.rikstv.no/editorial/BBCNordic%252b_821cb58900352b0f902713acf4f0b84f.png?width=250&height=250",
+          "action_data": "{\"subpageId\": \"accbdade-df94-40b3-b979-f6226f86e863\"}",
           "is_playable": false
         },
         {
           "image_ratio": "1by1",
-          "image_url": "https://static.rikstv.no/logopack/SkyShowtime_square.svg",
-          "action_data": "{\"subpageId\": \"0b1eb436-c0f2-4c6d-8872-67ac0f0be203\"}",
+          "image_url": "https://imageservice.rikstv.no/editorial/NRKTV_colouricons_4f7a30b20129ff5879648127b42ee915.png?width=250&height=250",
+          "action_data": "{\"subpageId\": \"cde53130-bcfc-41b0-8e04-d61a6e1e193e\"}",
           "is_playable": false
         },
         {
           "image_ratio": "1by1",
-          "image_url": "https://static.rikstv.no/logopack/HBOMax_square.svg",
-          "action_data": "{\"subpageId\": \"db4d02bc-66ab-4161-88d6-12bab13dc4e7\"}",
+          "image_url": "https://imageservice.rikstv.no/editorial/FotballTV_original_fa0a977867f62fc8b0ee15287b832c6f.png?width=250&height=250",
+          "action_data": "{\"subpageId\": \"1dd3faf6-fb53-4643-aae2-ed39d556f54c\"}",
           "is_playable": false
         }
       ]
