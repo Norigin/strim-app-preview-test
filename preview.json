@@ -5,35 +5,30 @@
             "title": "I søkelyset",
             "tiles": [
                 {
-                    "title": "The Winter King",
                     "image_ratio": "16by9",
                     "image_url": "https://imageservice.rikstv.no/hash/0511AAB853293986896AD55F421BC787.jpg?width=445&height=250",
                     "action_data": "{\"videoId\": 14417550}",
                     "is_playable": false
                 },
                 {
-                    "title": "16 ukers helvete bootcamp",
                     "image_ratio": "16by9",
                     "image_url": "https://imageservice.rikstv.no/hash/2B65FA31F83B4AF235BAF60BB1989863.jpg?width=445&height=250",
                     "action_data": "{\"videoId\": 14394638}",
                     "is_playable": false
                 },
                 {
-                    "title": "Farmen",
                     "image_ratio": "16by9",
                     "image_url": "https://imageservice.rikstv.no/hash/C2DA14B6FCCE5905973CA07E5F3A8193.jpg?width=445&height=250",
                     "action_data": "{\"videoId\": 14170847}",
                     "is_playable": false
                 },
                 {
-                    "title": "Åsted Norge",
                     "image_ratio": "16by9",
                     "image_url": "https://imageservice.rikstv.no/hash/FFEE8CBCE404E83D204356A6C66AC5EE.jpg?width=445&height=250",
                     "action_data": "{\"videoId\": 11317090}",
                     "is_playable": false
                 },
                 {
-                    "title": "Ondskapen",
                     "image_ratio": "16by9",
                     "image_url": "https://imageservice.rikstv.no/hash/BA2E60106D0633E139A04512BBC08656.jpg?width=445&height=250",
                     "action_data": "{\"videoId\": 14329077}",
