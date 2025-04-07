@@ -1,0 +1,42 @@
+{
+   "expires":4106938892,
+   "sections":[
+      {
+         "title":"Tizen Promotion",
+         "tiles":[
+            {
+               "title":"Dødens triangel",
+               "subtitle":"1 sesong · 15+ · Drama, Krim",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.rikstv.no/hash/F3B2668223349F32B92B596012BDDBBA.jpg",
+               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/14629029\"}",
+               "is_playable":true
+            },
+            {
+               "title":"The White Lotus",
+               "subtitle":"3 sesonger · 18+ · Drama",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.rikstv.no/hash/780110D74314336D33F546CB2178D213.jpg",
+               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/15111260\"}",
+               "is_playable":true
+            },
+            {
+               "title":"Kompani Lauritzen",
+               "subtitle":"6 sesonger · Reality, Underholdning",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.rikstv.no/hash/E50881ED121B90DD255735208E0C1C02.jpg",
+               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/16142075\"}",
+               "is_playable":true
+            },
+            {
+               "title":"1923",
+               "subtitle":"1 sesong · 15+ · Action, Drama",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.rikstv.no/hash/89B7D956A687A113D8C32AAB6B93A24A.jpg",
+               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/13376659\"}",
+               "is_playable":true
+            }
+         ]
+      }
+   ]
+}
