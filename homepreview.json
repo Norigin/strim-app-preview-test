@@ -1,42 +1,58 @@
 {
-   "expires":1744108710,
-   "sections":[
-      {
-         "title":"Tizen promotion",
-         "tiles":[
-            {
-               "title":"Dødens triangel",
-               "subtitle":"1 sesong · 15+ · Drama, Krim",
-               "image_ratio":"16by9",
-               "image_url":"https://imageservice.rikstv.no/hash/F3B2668223349F32B92B596012BDDBBA.jpg?height=250",
-               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/14629029\"}",
-               "is_playable":true
-            },
-            {
-               "title":"The White Lotus",
-               "subtitle":"3 sesonger · 15+ · Drama",
-               "image_ratio":"16by9",
-               "image_url":"https://imageservice.rikstv.no/hash/780110D74314336D33F546CB2178D213.jpg?height=250",
-               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/15111260\"}",
-               "is_playable":true
-            },
-            {
-               "title":"Kompani Lauritzen",
-               "subtitle":"6 sesonger · Reality, Underholdning",
-               "image_ratio":"16by9",
-               "image_url":"https://imageservice.rikstv.no/hash/E50881ED121B90DD255735208E0C1C02.jpg?height=250",
-               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/16101524\"}",
-               "is_playable":true
-            },
-            {
-               "title":"1923",
-               "subtitle":"2 sesonger · 15+ · Action, Drama",
-               "image_ratio":"16by9",
-               "image_url":"https://imageservice.rikstv.no/hash/F6CE5ECC5004C302CEC4516092CCE7E2.jpg?height=250",
-               "action_data":"{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/13376659\"}",
-               "is_playable":true
-            }
-         ]
-      }
-   ]
+  "expires": 1744110057,
+  "sections": [
+    {
+      "title": "Tizen promotion",
+      "titles": [
+        {
+          "title": "Dødens triangel",
+          "subtitle": "1 sesong · 15+ · Drama, Krim",
+          "image_ratio": "16by9",
+          "image_url": "https://imageservice.rikstv.no/hash/F3B2668223349F32B92B596012BDDBBA.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/14629029\"}",
+          "is_playable": true
+        },
+        {
+          "title": "The White Lotus",
+          "subtitle": "3 sesonger · 15+ · Drama",
+          "image_ratio": "16by9",
+          "image_url": "https://imageservice.rikstv.no/hash/780110D74314336D33F546CB2178D213.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/15111260\"}",
+          "is_playable": true
+        },
+        {
+          "title": "Varg på eventyr",
+          "subtitle": "S1E14: sendt 02. apr. 12:30 · Tilgjengelig til onsdag 12:40",
+          "image_ratio": "16by9",
+          "image_url": "https://imageservice.rikstv.no/hash/2BDA5F8ACAC1E0F658BDCD59CA416EE0.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/16269149\"}",
+          "is_playable": true
+        },
+        {
+          "title": "Farang",
+          "subtitle": "2023 · 15+ · Action, Thriller",
+          "image_ratio": "2by3",
+          "image_url": "https://imageservice.rikstv.no/hash/9DB1516D4E778236E5B4C6D5BACAF97A.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/14697489\"}",
+          "is_playable": true
+        },
+        {
+          "title": "Kompani Lauritzen",
+          "subtitle": "6 sesonger · Reality, Underholdning",
+          "image_ratio": "16by9",
+          "image_url": "https://imageservice.rikstv.no/hash/E50881ED121B90DD255735208E0C1C02.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/16101524\"}",
+          "is_playable": true
+        },
+        {
+          "title": "1923",
+          "subtitle": "2 sesonger · 15+ · Action, Drama",
+          "image_ratio": "16by9",
+          "image_url": "https://imageservice.rikstv.no/hash/F6CE5ECC5004C302CEC4516092CCE7E2.jpg?height=250",
+          "action_data": "{\"href\":\"https://contentsearch.test.rikstv.no/1/coverpage/13376659\"}",
+          "is_playable": true
+        }
+      ]
+    }
+  ]
 }
